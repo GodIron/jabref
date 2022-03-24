@@ -1,3 +1,4 @@
+gabrielsouza.2020@alunos.utfpr.edu.br
 # JabRef Bibliography Management
 
 JabRef is an open-source, cross-platform citation and reference management tool.
